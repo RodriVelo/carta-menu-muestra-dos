@@ -18,6 +18,8 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b",
         badge: "Popular",
         badgeColor: "bg-orange-100 text-orange-800",
       },
@@ -25,21 +27,28 @@ const sections = [
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1550547660-d9450f859349",
       },
       {
         name: "Producto 3",
         price: "$00.000",
-        desc: "Descripcion del producto"
+        desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
         badge: "Nuevo",
         badgeColor: "bg-teal-100 text-teal-800",
       },
     ],
   },
+
   {
     id: "categoria2",
     label: "Categoria 2",
@@ -50,28 +59,33 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
-        badge: "Popular",
-        badgeColor: "bg-orange-100 text-orange-800",
+        image:
+          "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
       },
       {
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1571091718767-18b5b1457add",
       },
       {
         name: "Producto 3",
         price: "$00.000",
-        desc: "Descripcion del producto"
+        desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
-        badge: "Nuevo",
-        badgeColor: "bg-teal-100 text-teal-800",
+        image:
+          "https://images.unsplash.com/photo-1553979459-d2229ba7433b",
       },
     ],
   },
+
   {
     id: "categoria3",
     label: "Categoria 3",
@@ -82,28 +96,33 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
-        badge: "Popular",
-        badgeColor: "bg-orange-100 text-orange-800",
+        image:
+          "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
       },
       {
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1464306076886-da185f6a9d05",
       },
       {
         name: "Producto 3",
         price: "$00.000",
-        desc: "Descripcion del producto"
+        desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1488477181946-6428a0291777",
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
-        badge: "Nuevo",
-        badgeColor: "bg-teal-100 text-teal-800",
+        image:
+          "https://images.unsplash.com/photo-1551024601-bec78aea704b",
       },
     ],
   },
+
   {
     id: "categoria4",
     label: "Categoria 4",
@@ -114,28 +133,33 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
-        badge: "Popular",
-        badgeColor: "bg-orange-100 text-orange-800",
+        image:
+          "https://images.unsplash.com/photo-1544145945-f90425340c7e",
       },
       {
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1556679343-c7306c1976bc",
       },
       {
         name: "Producto 3",
         price: "$00.000",
-        desc: "Descripcion del producto"
+        desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1621263764928-df1444c5e859",
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
-        badge: "Nuevo",
-        badgeColor: "bg-teal-100 text-teal-800",
+        image:
+          "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd",
       },
     ],
   },
+
   {
     id: "categoria5",
     label: "Categoria 5",
@@ -144,30 +168,27 @@ const sections = [
     items: [
       {
         name: "Producto 1",
-        price: "$00.000",
-        desc: "Descripcion del producto",
-        badge: "Popular",
-        badgeColor: "bg-orange-100 text-orange-800",
+        image:
+          "https://images.unsplash.com/photo-1470337458703-46ad1756a187",
       },
       {
         name: "Producto 2",
-        price: "$00.000",
-        desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b",
       },
       {
         name: "Producto 3",
-        price: "$00.000",
-        desc: "Descripcion del producto"
+        image:
+          "https://images.unsplash.com/photo-1575023782549-62ca0d244b39",
       },
       {
         name: "Producto 4",
-        price: "$00.000",
-        desc: "Descripcion del producto",
-        badge: "Nuevo",
-        badgeColor: "bg-teal-100 text-teal-800",
+        image:
+          "https://images.unsplash.com/photo-1560963689-3c5f2d608c03",
       },
     ],
   },
+
   {
     id: "categoria6",
     label: "Categoria 6",
@@ -176,27 +197,23 @@ const sections = [
     items: [
       {
         name: "Producto 1",
-        price: "$00.000",
-        desc: "Descripcion del producto",
-        badge: "Popular",
-        badgeColor: "bg-orange-100 text-orange-800",
+        image:
+          "https://images.unsplash.com/photo-1436076863939-06870fe779c2",
       },
       {
         name: "Producto 2",
-        price: "$00.000",
-        desc: "Descripcion del producto",
+        image:
+          "https://images.unsplash.com/photo-1608270586620-248524c67de9",
       },
       {
         name: "Producto 3",
-        price: "$00.000",
-        desc: "Descripcion del producto"
+        image:
+          "https://images.unsplash.com/photo-1566633806327-68e152aaf26d",
       },
       {
         name: "Producto 4",
-        price: "$00.000",
-        desc: "Descripcion del producto",
-        badge: "Nuevo",
-        badgeColor: "bg-teal-100 text-teal-800",
+        image:
+          "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3",
       },
     ],
   },
