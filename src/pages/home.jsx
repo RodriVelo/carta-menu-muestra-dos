@@ -5,6 +5,29 @@ import fotoLogo from "../assets/logo.png"
 import MenuItem from "../componentes/menuItem";
 import {Utensils, Hamburger, CakeSlice, GlassWater, Beer, Martini} from 'lucide-react';
 import Nav from "../componentes/nav";
+import foto1 from "../assets/PLATOS/foto1.jpg";
+import foto2 from "../assets/PLATOS/foto2.jpg";
+import foto3 from "../assets/PLATOS/foto3.jpg";
+import foto4 from "../assets/PLATOS/foto4.jpg";
+import foto5 from "../assets/PLATOS/foto5.jpg";
+import foto6 from "../assets/PLATOS/foto6.jpg";
+import foto7 from "../assets/PLATOS/foto7.jpg";
+import foto8 from "../assets/PLATOS/foto8.jpg";
+import foto9 from "../assets/PLATOS/foto9.jpg";
+import foto10 from "../assets/PLATOS/foto10.jpg";
+import foto11 from "../assets/PLATOS/foto11.jpg";
+import foto12 from "../assets/PLATOS/foto12.jpg";
+import foto13 from "../assets/PLATOS/foto13.jpg";
+import foto14 from "../assets/PLATOS/foto14.jpg";
+import foto15 from "../assets/PLATOS/foto15.jpg";
+import foto16 from "../assets/PLATOS/foto16.jpg";
+import foto17 from "../assets/PLATOS/foto17.jpg";
+import foto18 from "../assets/PLATOS/foto18.jpg";
+import foto19 from "../assets/PLATOS/foto19.jpg";
+import foto20 from "../assets/PLATOS/foto20.jpg";
+
+
+
 
 
 const sections = [
@@ -18,8 +41,7 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b",
+        image: foto1,
         badge: "Popular",
         badgeColor: "bg-orange-100 text-orange-800",
       },
@@ -27,22 +49,19 @@ const sections = [
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1550547660-d9450f859349",
+        image: foto2,
       },
       {
         name: "Producto 3",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+        image: foto3,
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+        image: foto4, 
         badge: "Nuevo",
         badgeColor: "bg-teal-100 text-teal-800",
       },
@@ -59,29 +78,25 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+        image: foto5,
       },
       {
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1571091718767-18b5b1457add",
+        image: foto6,
       },
       {
         name: "Producto 3",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
+        image: foto7,
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1553979459-d2229ba7433b",
+        image: foto8,
       },
     ],
   },
@@ -96,29 +111,25 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1578985545062-69928b1d9587",
+        image: foto9,
       },
       {
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1464306076886-da185f6a9d05",
+        image: foto10,
       },
       {
         name: "Producto 3",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+        image: foto11,
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1551024601-bec78aea704b",
+        image: foto12,
       },
     ],
   },
@@ -133,29 +144,25 @@ const sections = [
         name: "Producto 1",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1544145945-f90425340c7e",
+        image: foto13,
       },
       {
         name: "Producto 2",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1556679343-c7306c1976bc",
+        image: foto14,
       },
       {
         name: "Producto 3",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1621263764928-df1444c5e859",
+        image: foto15,
       },
       {
         name: "Producto 4",
         price: "$00.000",
         desc: "Descripcion del producto",
-        image:
-          "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd",
+        image: foto16,
       },
     ],
   },
@@ -168,23 +175,27 @@ const sections = [
     items: [
       {
         name: "Producto 1",
-        image:
-          "https://images.unsplash.com/photo-1470337458703-46ad1756a187",
+        price: "$00.000",
+        desc: "Descripcion del producto",
+        image: foto13,
       },
       {
         name: "Producto 2",
-        image:
-          "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b",
+        price: "$00.000",
+        desc: "Descripcion del producto",
+        image: foto14,
       },
       {
         name: "Producto 3",
-        image:
-          "https://images.unsplash.com/photo-1575023782549-62ca0d244b39",
+        price: "$00.000",
+        desc: "Descripcion del producto",
+        image: foto15,
       },
       {
         name: "Producto 4",
-        image:
-          "https://images.unsplash.com/photo-1560963689-3c5f2d608c03",
+        price: "$00.000",
+        desc: "Descripcion del producto",
+        image: foto16,
       },
     ],
   },
@@ -197,23 +208,19 @@ const sections = [
     items: [
       {
         name: "Producto 1",
-        image:
-          "https://images.unsplash.com/photo-1436076863939-06870fe779c2",
+        image: foto17,
       },
       {
         name: "Producto 2",
-        image:
-          "https://images.unsplash.com/photo-1608270586620-248524c67de9",
+        image: foto18,
       },
       {
         name: "Producto 3",
-        image:
-          "https://images.unsplash.com/photo-1566633806327-68e152aaf26d",
+        image: foto19,
       },
       {
         name: "Producto 4",
-        image:
-          "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3",
+        image: foto20,
       },
     ],
   },
