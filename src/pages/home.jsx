@@ -208,18 +208,26 @@ const sections = [
     items: [
       {
         name: "Producto 1",
+        price: "$00.000",
+        desc: "Descripcion del producto",
         image: foto17,
       },
       {
         name: "Producto 2",
+        price: "$00.000",
+        desc: "Descripcion del producto",
         image: foto18,
       },
       {
         name: "Producto 3",
+        price: "$00.000",
+        desc: "Descripcion del producto",
         image: foto19,
       },
       {
         name: "Producto 4",
+        price: "$00.000",
+        desc: "Descripcion del producto",
         image: foto20,
       },
     ],
